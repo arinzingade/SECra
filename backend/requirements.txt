@@ -1,1 +1,4 @@
 
+sec-api
+python-dotenv
+requests
